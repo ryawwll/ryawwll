@@ -36,11 +36,12 @@
 ### Connect with me:
 
 
-[![website](./img/instagram-light.svg)](https://www.instagram.com/ryhn.awwll_?igsh=MWNsbXRnNmNzY2oxMw==)
+
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/ryhn.awwll_?igsh=MWNsbXRnNmNzY2oxMw==)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/@reyhanawwalulhafizhhafizh5449?si=d5D0s8W6V5hK0LjW)
 [![website](./img/youtube-dark.svg)](https://youtube.com/@reyhanawwalulhafizhhafizh5449?si=d5D0s8W6V5hK0LjW)
+&nbsp;&nbsp;
+[![website](./img/github-dark.svg)](https://github.com/ryawwll/ryawwll)
 
 
 
