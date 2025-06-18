@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate as Web/Mobile Developer
 - 🤔 I’m Open to UI/UX and front-end design slicing challenges.
 - 💬 Ask me about anything
-- 📫 How to reach me: basukiridhoalghifary@gmail.com
+- 📫 How to reach me: reyhanawwalulhafizh@gmail.com
 
 ## Education:
 
