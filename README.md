@@ -19,7 +19,7 @@
    - Technology: Laravel 11, Bootstrap.
    - Description: A website designed to simplify the process of booking sports fields online.
 
-     2. Student Task Management App
+#### 2. Student Task Management App
    - Technology: Flutter (Frontend), Collaboration with Backend & Designer Team
    - Description: A mobile application used to manage student tasks in a structured way. I served as the Front-End Developer and worked collaboratively with a backend developer and a UI/UX designer.
     
